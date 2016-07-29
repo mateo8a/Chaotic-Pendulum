@@ -2,11 +2,17 @@
 
 This repo contains a Mathematica notebook that explores various aspects of the damped driven nonlinear pendulum. The equation for this system is:
 
-$$ I \frac{d^2 \theta}{d t^2} + b \frac{d\theta}{dt} + m g d \sin{\theta} = \Gamma \cos{(\omega_F t)} $$
+![](nonlinear-pend-eq.png)
 
+The program allows you to compute:
 
+* The trajectory as a function of time
+* The trajectory in phase space 
+* The Poincare section 
+* The Power Spectrum
+* Bifurcation diagrams 
 
-
+A note on the bifurcation diagrams: even though they are arguably the coolest part of the program, generating one of them can take around 10 hours. I recommend leaving your computer running overnight if you plan on generating one of them.
 
 ##How to open the Mathematica (.nb) file
 
