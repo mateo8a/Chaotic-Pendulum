@@ -18,7 +18,7 @@ A note on the bifurcation diagrams: even though they are arguably the coolest pa
 
 The 'Chaotic Pendulum.nb' file is the Mathematica notebook; this is where the program is.
 
-The 'Project Poster.pdf' file is the poster that I created as part of a class presentation on this topic. It provides a succint explanation of the chaotic pendulum, along with plots to visualize the difference between regular and chaotic motion.
+The 'Project Poster.pdf' file is the poster that I created as part of a class presentation on this topic. It provides a succinct explanation of the chaotic pendulum, along with plots to visualize the difference between regular and chaotic motion.
 
 The '.png' file is an image of the equation that describes the nonlinear damped driven pendulum system.
 
