@@ -1,6 +1,6 @@
 #The Chaotic Pendulum
 
-This repo contains a Mathematica notebook that explores various aspects of the damped driven nonlinear pendulum. The equation for this system is:
+This repo contains a Mathematica notebook that explores various aspects of the nonlinear damped driven pendulum. The equation for this system is:
 
 ![](nonlinear-pend-eq.png)
 
@@ -13,6 +13,14 @@ The program allows you to compute:
 * Bifurcation diagrams 
 
 A note on the bifurcation diagrams: even though they are arguably the coolest part of the program, generating one of them can take around 10 hours. I recommend leaving your computer running overnight if you plan on generating one of them.
+
+##Files included 
+
+The 'Chaotic Pendulum.nb' file is the Mathematica notebook; this is where the program is.
+
+The 'Project Poster.pdf' file is the poster that I created as part of a class presentation on this topic. It provides a succint explanation of the chaotic pendulum, along with plots to visualize the difference between regular and chaotic motion.
+
+The '.png' file is an image of the equation that describes the nonlinear damped driven pendulum system.
 
 ##How to open the Mathematica (.nb) file
 
